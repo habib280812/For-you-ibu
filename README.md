@@ -85,7 +85,7 @@
 
   <script>
     function ucapan() {
-      alert("Ibu, terima kasih atas segalanya. Saya sayang Ibu!baca tulis dibawah");
+      alert("Ibu, terima kasih atas segalanya. Saya sayang Ibu. baca tulis dibawah!");
     }
 
     const quotes = [
