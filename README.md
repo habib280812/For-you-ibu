@@ -1,5 +1,4 @@
 # For-you-ibu
-<!DOCTYPE html>
 <html lang="ms">
 <head>
   <meta charset="UTF-8">
@@ -77,7 +76,7 @@
   <p>Ibu, kasihmu tiada tandingan. Terima kasih kerana sentiasa ada.</p>
   <button onclick="ucapan()">Tekan untuk Ucapan Istimewa</button>
   <p id="quote"></p>
-
+  
   <!-- Muzik autoplay -->
   <audio autoplay loop>
     <source src="https://archive.org/download/IwanFals_ibu/Iwan%20Fals%20-%20Ibu.mp3" type="audio/mpeg">
@@ -86,7 +85,7 @@
 
   <script>
     function ucapan() {
-      alert("Ibu, terima kasih atas segalanya. Saya sayang Ibu!");
+      alert("Ibu, terima kasih atas segalanya. Saya sayang Ibu!baca tulis dibawah");
     }
 
     const quotes = [
